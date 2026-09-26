@@ -20,3 +20,13 @@ Additional Week 8 practice problems:
 - `DeliveryFeeCalculator`
 - `ExaminationQuestionGrader`
 - `PublicTransportFareCalculator`
+
+## Assignment Practice Problems - Week 7
+
+Added five Java encapsulation practice classes:
+
+- `Character`
+- `Playlist`
+- `PasswordChecker`
+- `TrafficLight`
+- `ShoppingCart`
