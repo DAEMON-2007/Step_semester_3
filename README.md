@@ -12,3 +12,11 @@ Added five Java solutions focused on polymorphism and shared operations:
 
 Each program reads the assignment's sample input format from standard input and
 prints the per-item result followed by the required total where applicable.
+
+Additional Week 8 practice problems:
+
+- `PaymentSystemFeeCalculation`
+- `LibraryItemDueDateCalculator`
+- `DeliveryFeeCalculator`
+- `ExaminationQuestionGrader`
+- `PublicTransportFareCalculator`
