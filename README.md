@@ -1,13 +1,14 @@
 # Step Semester 3
 
-## Today's Work
+## Assignment Practice Problems - Week 8
 
-- Summary of what was completed in this session.
+Added five Java solutions focused on polymorphism and shared operations:
 
-## Next Session Plan
+- `CanteenBillingCounter`
+- `CampusParkingChargeCalculator`
+- `HostelElectricityBill`
+- `FestivalBonusCalculator`
+- `StreamingPlanRenewalReminder`
 
-- What you plan to work on next.
-
-## Issues Faced
-
-- Any blockers, errors, or doubts encountered (or `None`).
+Each program reads the assignment's sample input format from standard input and
+prints the per-item result followed by the required total where applicable.
