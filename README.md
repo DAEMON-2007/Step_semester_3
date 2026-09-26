@@ -30,3 +30,11 @@ Added five Java encapsulation practice classes:
 - `PasswordChecker`
 - `TrafficLight`
 - `ShoppingCart`
+
+Additional Week 7 practice problems:
+
+- `PiggyBank`
+- `Scorecard`
+- `NameTag`
+- `Locker`
+- `AttendanceSheet`
