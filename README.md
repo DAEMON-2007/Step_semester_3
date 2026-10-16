@@ -1,5 +1,19 @@
 # Step Semester 3
 
+## Assignment Week 9
+
+Added five Java solutions covering shared fees, optional services, and
+type-specific calculations:
+
+- `MovieTicketCounter`
+- `ParcelShippingDesk`
+- `CollegeFeeCounter`
+- `CityCabFareMeter`
+- `HomeApplianceEnergyReport`
+
+Each program reads the assignment's sample input format from standard input and
+prints the required per-item result followed by the total.
+
 ## Assignment Practice Problems - Week 8
 
 Added five Java solutions focused on polymorphism and shared operations:
