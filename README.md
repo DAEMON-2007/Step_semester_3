@@ -1,5 +1,19 @@
 # Step Semester 3
 
+## Practice Problems Week 9
+
+Added five Java solutions focused on polymorphism, shared behavior, and
+type-specific calculations:
+
+- `GardenPlotAreaReport`
+- `WeeklyStaffPay`
+- `LibraryLateFineCounter`
+- `ElectricityConnectionBilling`
+- `TravelBookingWithCommonFee`
+
+Each program reads the assignment's sample input format from standard input and
+prints the required per-item result followed by the total where applicable.
+
 ## Assignment Week 9
 
 Added five Java solutions covering shared fees, optional services, and
