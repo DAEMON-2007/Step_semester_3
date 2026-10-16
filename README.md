@@ -1,5 +1,20 @@
 # Step Semester 3
 
+## Assignment Problems Week 10
+
+Added five Java solutions focused on array algorithms and efficient searches:
+
+- `ExamScoreBandCounter` — inclusive range counting with two binary searches,
+  `O(log n)` time and `O(1)` extra space.
+- `ClassAttendanceTracker` — one-pass present-day and longest-streak tracking,
+  `O(n)` time and `O(1)` extra space.
+- `SecondBestScore` — one-pass distinct maximum tracking without sorting,
+  `O(n)` time and `O(1)` extra space.
+- `DutyRosterRotation` — right rotation using `k % n`,
+  `O(n)` time and `O(n)` output space.
+- `BusiestBusRow` — row totals with earliest-index tie breaking,
+  `O(rows * columns)` time and `O(1)` extra space.
+
 ## Practice Problems Week 9
 
 Added five Java solutions focused on polymorphism, shared behavior, and
