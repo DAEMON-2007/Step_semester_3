@@ -1,5 +1,21 @@
 # Step Semester 3
 
+## Practice Problem Week 10
+
+Added ten Java solutions covering introductory strings, arrays, loops,
+conditionals, and simple classes:
+
+- `VowelAndConsonantCounter`
+- `WordReverserAndPalindromeChecker`
+- `EvenAndOddNumbersInAList`
+- `InPlaceArrayReversal`
+- `DigitSumAndNumberReversal`
+- `PrimeNumberChecker`
+- `FactorialCalculation`
+- `StudentGradeAssignment`
+- `LeapYearDetector`
+- `StudentResultCardGenerator`
+
 ## Assignment Problems Week 10
 
 Added five Java solutions focused on array algorithms and efficient searches:
